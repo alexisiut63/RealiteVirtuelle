@@ -4,3 +4,9 @@ C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtual
 C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\obj\Debug\virtualRocky.csprojResolveAssemblyReference.cache
 C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\obj\Debug\virtualRocky.exe
 C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\obj\Debug\virtualRocky.pdb
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\virtualRocky.exe.config
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\obj\Debug\virtualRocky.exe
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\obj\Debug\virtualRocky.pdb
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\virtualRocky.exe
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\virtualRocky.pdb
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\obj\Debug\virtualRocky.csprojResolveAssemblyReference.cache
