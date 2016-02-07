@@ -1,0 +1,6 @@
+C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\bin\Debug\virtualRocky.exe.config
+C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\bin\Debug\virtualRocky.exe
+C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\bin\Debug\virtualRocky.pdb
+C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\obj\Debug\virtualRocky.csprojResolveAssemblyReference.cache
+C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\obj\Debug\virtualRocky.exe
+C:\Users\Jean Jacques\Documents\Visual Studio 2015\Projects\virtualRocky\virtualRocky\obj\Debug\virtualRocky.pdb
