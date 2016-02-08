@@ -19,9 +19,9 @@ namespace Rokinect.metier
             this.height = height;
         }
 
-        public  void takeBlow(Gesture gesture)
+        public  void doBlow(Gesture gesture)
         {
-            Console.WriteLine("ici ca marche");
+            
         }
 
 
