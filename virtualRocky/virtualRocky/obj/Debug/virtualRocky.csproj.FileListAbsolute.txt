@@ -10,3 +10,6 @@ C:\RealiteVirtuelle\virtualRocky\virtualRocky\obj\Debug\virtualRocky.pdb
 C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\virtualRocky.exe
 C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\virtualRocky.pdb
 C:\RealiteVirtuelle\virtualRocky\virtualRocky\obj\Debug\virtualRocky.csprojResolveAssemblyReference.cache
+D:\Emilien\Documents\Cours\VR\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\virtualRocky.exe.config
+D:\Emilien\Documents\Cours\VR\RealiteVirtuelle\virtualRocky\virtualRocky\obj\Debug\virtualRocky.exe
+D:\Emilien\Documents\Cours\VR\RealiteVirtuelle\virtualRocky\virtualRocky\obj\Debug\virtualRocky.pdb

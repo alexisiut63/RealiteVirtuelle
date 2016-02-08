@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="librayrieGeste\Gesture.cs" />
+    <Compile Include="librayrieGeste\GestureEngine.cs" />
+    <Compile Include="librayrieGeste\Guard.cs" />
+    <Compile Include="librayrieGeste\Posture.cs" />
     <Compile Include="metier\ArmGesture.cs" />
     <Compile Include="metier\BoxingObject.cs" />
     <Compile Include="metier\BoxingObjectFactory.cs" />
