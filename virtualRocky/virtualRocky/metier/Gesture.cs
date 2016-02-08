@@ -14,5 +14,7 @@ namespace Rokinect.metier
         private int strenght;
 
         public abstract void move();
+
+      
     }
 }
