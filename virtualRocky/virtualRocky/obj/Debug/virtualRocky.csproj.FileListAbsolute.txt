@@ -38,3 +38,15 @@ D:\Emilien\Documents\Cours\VR\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Deb
 D:\Emilien\Documents\Cours\VR\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\normnfd.nlp
 D:\Emilien\Documents\Cours\VR\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\normnfkc.nlp
 D:\Emilien\Documents\Cours\VR\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\normnfkd.nlp
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.dll
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Face.dll
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.xml
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Face.xml
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\RealiteVirtuelle\virtualRocky\virtualRocky\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
