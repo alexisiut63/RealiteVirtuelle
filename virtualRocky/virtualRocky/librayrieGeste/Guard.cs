@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace virtualRocky.librayrieGeste
 {
-    public class Guard
-        : Posture
+    class Guard
     {
-        
-
-        public override bool testPosture(Microsoft.Kinect.Body b)
-        {
-            return true;
-        }
     }
 }
