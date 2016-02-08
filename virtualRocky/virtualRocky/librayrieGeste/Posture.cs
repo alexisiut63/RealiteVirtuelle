@@ -3,10 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Kinect;
 
 namespace virtualRocky.librayrieGeste
 {
-    class Posture
+    public abstract class Posture
+        : Gesture
     {
+        override public void testGesture(Microsoft.Kinect.Body b)
+        {
+            if (testPosture(b))
+                gestureRegognised(this);
+        }
+
+        public abstract bool testPosture(Body b);
+
     }
 }

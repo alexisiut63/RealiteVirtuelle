@@ -1,4 +1,5 @@
-﻿using Rokinect.metier;
+﻿using Microsoft.Kinect;
+using Rokinect.metier;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +12,20 @@ namespace virtualRocky
     {
         static void Main(string[] args)
         {
-            Player x = new Player(100, 175);
-            Gesture a = new LeftKick();
-            x.takeBlow(a);
+            var kinectSensor = KinectSensor.GetDefault();
+
+            // get the coordinate mapper
+            var coordinateMapper = kinectSensor.CoordinateMapper;
+
+            // get the depth (display) extents
+            FrameDescription frameDescription = kinectSensor.DepthFrameSource.FrameDescription;
+
+            // get size of joint space
+            var displayWidth = frameDescription.Width;
+            var displayHeight = frameDescription.Height;
+
+            // open the reader for the body frames
+            var bodyFrameReader = kinectSensor.BodyFrameSource.OpenReader();
 
 
             Console.ReadKey(true);

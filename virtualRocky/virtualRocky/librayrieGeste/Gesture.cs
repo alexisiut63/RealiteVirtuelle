@@ -3,10 +3,32 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Kinect;
 
 namespace virtualRocky.librayrieGeste
 {
-    class Gesture
+    public abstract class Gesture
     {
+        private string name;
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public abstract void testGesture(Body b);
+
+
+        protected GestureRecognised gestureRegognised;
+        public event GestureRecognised GestureRegognised
+        {
+            add { gestureRegognised += value; }
+            remove { gestureRegognised -= value; }
+            
+        }
+
+
     }
 }
+
