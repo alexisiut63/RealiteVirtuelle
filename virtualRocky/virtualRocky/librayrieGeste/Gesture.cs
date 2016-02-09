@@ -23,9 +23,8 @@ namespace virtualRocky.librayrieGeste
         protected GestureRecognised gestureRegognised;
         public event GestureRecognised GestureRegognised
         {
-            add { gestureRegognised += value; }
+            add { gestureRegognised += new GestureRecognised(value); }
             remove { gestureRegognised -= value; }
-            
         }
 
 

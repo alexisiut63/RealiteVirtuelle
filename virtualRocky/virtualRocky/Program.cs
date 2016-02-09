@@ -12,8 +12,9 @@ namespace virtualRocky
     {
         static void Main(string[] args)
         {
-            new Start().start();
-
+            Start s = new Start();
+            s.ajouterGesture();
+            s.start();
             
             Console.ReadKey();
             Console.Clear();

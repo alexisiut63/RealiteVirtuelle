@@ -13,12 +13,12 @@ namespace virtualRocky.librayrieGeste
         public override bool testPosture(Body b)
         {
 
-            Console.WriteLine("on est dans testPosture");
+//            Console.WriteLine("on est dans testPosture");
             
             Joint handR = b.Joints[JointType.HandRight];
-            Joint handL = b.Joints[JointType.HandRight];
-            Joint shoulderR = b.Joints[JointType.HandRight];
-            Joint shoulderL= b.Joints[JointType.HandRight];
+            Joint handL = b.Joints[JointType.HandLeft];
+            Joint shoulderR = b.Joints[JointType.ShoulderRight];
+            Joint shoulderL= b.Joints[JointType.ShoulderLeft];
 
 
             Vector3  mainD= new Vector3();
@@ -49,7 +49,9 @@ namespace virtualRocky.librayrieGeste
             float epmainsG = mainG.X - epauleG.X;
             float epmainsD = epauleD.X - mainD.X;
 
-            
+
+            Console.WriteLine("main droite x : "+mainD.X);
+            Console.WriteLine("main gauche x : " + mainG.X);
 
             return true;
         }
