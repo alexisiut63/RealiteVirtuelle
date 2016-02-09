@@ -14,6 +14,7 @@ namespace virtualRocky.librayrieGeste
         {
             if (testPosture(b))
                 gestureRegognised(this);
+            Console.WriteLine("fin test gesture");
         }
 
         public abstract bool testPosture(Body b);

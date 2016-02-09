@@ -12,6 +12,9 @@ namespace virtualRocky.librayrieGeste
     {
         public override bool testPosture(Body b)
         {
+
+            Console.WriteLine("on est dans testPosture");
+            
             Joint handR = b.Joints[JointType.HandRight];
             Joint handL = b.Joints[JointType.HandRight];
             Joint shoulderR = b.Joints[JointType.HandRight];
@@ -41,7 +44,7 @@ namespace virtualRocky.librayrieGeste
             // soustraction de epaule droite a epaule gauche pour nb positif
             float mains = mainD.X - mainG.X;
             if (mains > 15)
-                throw new Exception("mains trop loin");
+                return false;
 
             float epmainsG = mainG.X - epauleG.X;
             float epmainsD = epauleD.X - mainD.X;

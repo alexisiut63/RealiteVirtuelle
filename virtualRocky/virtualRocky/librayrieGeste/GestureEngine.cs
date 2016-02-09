@@ -26,6 +26,7 @@ namespace virtualRocky.librayrieGeste
         public static void onGestureRecognized(Object obj, MultiSourceFrameArrivedEventArgs args)
         {
             gestureRegognised(obj);
+            Console.WriteLine("Gesture reconnue");
         }
 
         public static void ajouterGesture(Gesture gest)
